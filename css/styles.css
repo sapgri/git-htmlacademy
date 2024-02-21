@@ -14,12 +14,17 @@ h1.title {
 
 li {
     padding-bottom: 15px;
+    text-indent: 20px;
 }
 
 code {
     font-style: italic;
     font-size: 22px;
-    color:blue
+    color:blue;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 0 6px;
 }
 
 strong span {
