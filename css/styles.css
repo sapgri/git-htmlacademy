@@ -1,0 +1,27 @@
+body {
+    background-color: #e7e9d6;
+}
+
+h1.title {
+    text-align: center;
+}
+
+.site-main {
+    width: 700px;
+    margin: 0 auto;
+    font: 20px "Verdana", sans-serif;
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+code {
+    font-style: italic;
+    font-size: 22px;
+    color:blue
+}
+
+strong span {
+    color: red;
+}
