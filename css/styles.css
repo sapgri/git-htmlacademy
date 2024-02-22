@@ -27,6 +27,10 @@ code {
     padding: 0 6px;
 }
 
+i {
+    color: blue;
+}
+
 strong span {
     color: red;
 }
