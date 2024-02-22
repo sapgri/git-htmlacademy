@@ -10,6 +10,7 @@ h1.title {
     width: 800px;
     margin: 0 auto;
     font: 20px "Verdana", sans-serif;
+    line-height: 1.5em;
 }
 
 li {
@@ -33,6 +34,18 @@ i {
 
 strong span {
     color: red;
+}
+
+.m {
+    color: red;
+}
+
+.u {
+    color: rgb(47, 219, 47);
+}
+
+.mi {
+    color: orange;
 }
 
 .footer {
